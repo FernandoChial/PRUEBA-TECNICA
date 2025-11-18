@@ -1,0 +1,58 @@
+﻿@model List<FrontEnd.Models.HistorialVentaViewModel>
+
+@{
+    ViewData["Title"] = "Historial de Ventas";
+}
+
+<h2 class="mb-3">Historial de Ventas</h2>
+
+<form method="post" class="row g-3 mb-4">
+    <div class="col-auto">
+        <input type="number" class="form-control" name="clienteId" placeholder="Ingrese ID de cliente" required />
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Venta</th>
+                <th>Fecha</th>
+                <th>Cliente</th>
+                <th>Email</th>
+                <th>Producto</th>
+                <th>Cantidad</th>
+                <th>Precio</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.VentaId</td>
+                    <td>@item.Fecha</td>
+                    <td>@item.Cliente</td>
+                    <td>@item.Email</td>
+                    <td>@item.Producto</td>
+                    <td>@item.Cantidad</td>
+                    <td>@item.PrecioUnitario</td>
+                    <td>@item.TotalLinea</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (Model != null)
+{
+    <div class="alert alert-warning">No hay historial para este cliente.</div>
+}

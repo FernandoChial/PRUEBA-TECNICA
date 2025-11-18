@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\controllers\\ventascontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\controllers\\ventascontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\controllers\\clientescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\controllers\\clientescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\repositories\\clienterepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\repositories\\clienterepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\service\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\service\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|c:\\users\\ferna\\documents\\prueba tecnica neonet\\repositorio\\prueba-tecnica\\backend\\backend\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1872E-9A17-4152-8881-9D8F350DED6C}|BACKEND\\BACKEND.csproj|solutionrelative:backend\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController .cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Controllers\\ClientesController .cs",
+              "RelativeDocumentMoniker": "BACKEND\\Controllers\\ClientesController .cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Controllers\\ClientesController .cs",
+              "RelativeToolTip": "BACKEND\\Controllers\\ClientesController .cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:37:59.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "BACKEND\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:36:53.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BACKEND\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:35:46.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Entities\\Venta.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Entities\\Venta.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Entities\\Venta.cs",
+              "RelativeToolTip": "BACKEND\\Entities\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:35:43.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Repositories\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Repositories\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Repositories\\VentaRepository.cs",
+              "RelativeToolTip": "BACKEND\\Repositories\\VentaRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:21:18.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "BACKEND\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:21:16.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasController .cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Controllers\\VentasController .cs",
+              "RelativeDocumentMoniker": "BACKEND\\Controllers\\VentasController .cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Controllers\\VentasController .cs",
+              "RelativeToolTip": "BACKEND\\Controllers\\VentasController .cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:18:56.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BACKEND\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:36:25.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Interfaces\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Interfaces\\IVentaRepository.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Interfaces\\IVentaRepository.cs",
+              "RelativeToolTip": "BACKEND\\Interfaces\\IVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:31:38.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Service\\VentaService.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Service\\VentaService.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Service\\VentaService.cs",
+              "RelativeToolTip": "BACKEND\\Service\\VentaService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:32:07.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteRepository .cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Repositories\\ClienteRepository .cs",
+              "RelativeDocumentMoniker": "BACKEND\\Repositories\\ClienteRepository .cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Repositories\\ClienteRepository .cs",
+              "RelativeToolTip": "BACKEND\\Repositories\\ClienteRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:21:13.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "BACKEND\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:31:33.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "BACKEND\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:31:27.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Service\\ProductoService.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Service\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Service\\ProductoService.cs",
+              "RelativeToolTip": "BACKEND\\Service\\ProductoService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:32:16.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Service\\ClienteService.cs",
+              "RelativeDocumentMoniker": "BACKEND\\Service\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\ferna\\Documents\\PRUEBA TECNICA NEONET\\Repositorio\\PRUEBA-TECNICA\\BACKEND\\BACKEND\\Service\\ClienteService.cs",
+              "RelativeToolTip": "BACKEND\\Service\\ClienteService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:32:05.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

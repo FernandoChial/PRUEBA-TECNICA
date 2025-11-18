@@ -1,0 +1,88 @@
+﻿@model RegistrarVentaViewModel
+
+<h2>Registrar Venta</h2>
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-success">@TempData["Mensaje"]</div>
+}
+
+<div class="card p-3">
+    <form asp-action="Registrar" method="post">
+
+        <!-- Cliente -->
+        <div class="mb-3">
+            <label class="form-label">Cliente</label>
+            <select asp-for="EmailCliente" asp-items="Model.Clientes" class="form-select" required>
+                <option value="">-- Seleccione cliente --</option>
+            </select>
+        </div>
+
+        <!-- Selección de producto -->
+        <div class="row g-2">
+            <div class="col-md-5">
+                <select id="productoId" class="form-select">
+                    <option value="">-- Seleccione producto --</option>
+                    @foreach (var p in Model.ProductosDisponibles)
+                    {
+                        <option value="@p.Value">@p.Text</option>
+                    }
+                </select>
+            </div>
+            <div class="col-md-3">
+                <input id="cantidad" type="number" class="form-control" placeholder="Cantidad" min="1" />
+            </div>
+            <div class="col-md-3">
+                <button type="button" class="btn btn-success w-100" onclick="agregarProducto()">Agregar</button>
+            </div>
+        </div>
+
+        <hr />
+
+        <!-- Tabla del carrito -->
+        <table class="table" id="tablaProductos">
+            <thead>
+                <tr>
+                    <th>Producto</th>
+                    <th>Cantidad</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody id="bodyProductos"></tbody>
+        </table>
+
+        <button type="submit" class="btn btn-primary">Registrar Venta</button>
+    </form>
+</div>
+
+<script>
+    let contador = 0;
+
+    function agregarProducto() {
+        const select = document.getElementById("productoId");
+        const id = select.value;
+        const nombre = select.options[select.selectedIndex].text;
+        const cantidad = document.getElementById("cantidad").value;
+
+        if (!id || cantidad < 1) {
+            alert("Datos inválidos");
+            return;
+        }
+
+        const tbody = document.getElementById("bodyProductos");
+
+        tbody.innerHTML += `
+            <tr>
+                <td>${nombre}</td>
+                <td>${cantidad}</td>
+                <td>
+                    <button type="button" class="btn btn-danger btn-sm" onclick="this.closest('tr').remove()">X</button>
+                </td>
+                <input type="hidden" name="Productos[${contador}].ProductoId" value="${id}" />
+                <input type="hidden" name="Productos[${contador}].Cantidad" value="${cantidad}" />
+            </tr>
+        `;
+
+        contador++;
+    }
+</script>
